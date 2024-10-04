@@ -1,0 +1,21 @@
+[
+    
+    {
+        "id":1,
+        "question":"Who Developed JS",
+        "options": ["Brendan","Brendan Mac","Bretly","Brendan Eich"],
+        "CorrectOption":"Brendan Eich"
+    },
+    {
+        "id":2,
+        "question":"What is React.js ?",
+        "options": ["Library","React is JavaScript Library","Framework","Language"],
+        "CorrectOption":"React is JavaScript Library"
+    },
+    {
+        "id":3,
+        "question":"Who Develope React.js",
+        "options": ["Jordan Walke","Jordan","Jordan King","Jordan sen"],
+        "CorrectOption":"Jordan Walke"
+    }
+]
